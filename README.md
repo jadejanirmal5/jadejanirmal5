@@ -1,7 +1,7 @@
 <h1 align="center">Heyy 🧑‍🦱, I'm Nirmal Jadeja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on React JS. [Intelligere](https://prod.digitaldocsys.in/admin/modulesfeatures)
+- 🔭 I’m currently working on React JS. [Intelligere]([https://prod.digitaldocsys.in/admin/modulesfeatures](https://www.digitaldocsys.in/))
 
 - 🌱 I’m currently learning **React JSX In Depth, Uncontrolled Vs Controlled Inputs etc..**
 
